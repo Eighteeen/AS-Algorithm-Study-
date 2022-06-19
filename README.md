@@ -4,7 +4,7 @@
 [Bronze4]: https://user-images.githubusercontent.com/33937365/126247612-89cbc675-e1d4-43a2-950b-1cb014dca697.png
 [Bronze3]: https://user-images.githubusercontent.com/33937365/126247613-b8408610-7bc4-40f8-804f-a30a45ddbb68.png
 [Bronze2]: https://user-images.githubusercontent.com/33937365/126247614-d85dc6ff-a520-4c00-82bd-eb593b156bd8.png
-[Bronze1]: https://user-images.githubusercontent.com/33937365/126247616-04b2ab30-9891-4b7b-8cb4-38e99b97e834.png
+[Bronze1]: https://img.shields.io/badge/-Bronze1-orange
 [Silver5]: https://img.shields.io/badge/-Silver5-lightgrey
 [Silver4]: https://user-images.githubusercontent.com/33937365/126247620-ba2d1b96-b0aa-4b88-80c5-71569c69bbc3.png
 [Silver3]: https://user-images.githubusercontent.com/33937365/126247621-1b55b7f4-3a79-4348-8a63-f00c1813853e.png
@@ -32,7 +32,7 @@
 [Ruby1]: https://user-images.githubusercontent.com/33937365/126247660-8e0d236d-eaef-42b3-8983-28f9e6c94ff9.png
 <!-- tier 리스트 E -->
 
-# 현재 난이도 : [<sub>![Bronze1]</sub>Bronze1] , [<sub>![Silver5]</sub>Silver5]
+# 현재 난이도 : <sub>![Bronze1]</sub> , <sub>![Silver5]</sub>
 
 # [Notice]
  1. 문제풀이는 **월, 수, 금** 총 3회 진행한다.
