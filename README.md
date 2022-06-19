@@ -32,7 +32,7 @@
 [Ruby1]: https://user-images.githubusercontent.com/33937365/126247660-8e0d236d-eaef-42b3-8983-28f9e6c94ff9.png
 <!-- tier 리스트 E -->
 
-# 현재 난이도 : <p>![Bronze1]</p> , <p>![Silver5]</p>
+# 현재 난이도 : [<sub>![Bronze1]</sub>Bronze1] , [<sub>![Silver5]</sub>Silver5]
 
 # [Notice]
  1. 문제풀이는 **월, 수, 금** 총 3회 진행한다.
