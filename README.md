@@ -1,1 +1,1 @@
-# AS-Algorithm-Study-
+# AS-AlgorithmStudy
