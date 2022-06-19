@@ -6,6 +6,7 @@
 [Silver2]: https://img.shields.io/badge/-Silver2-lightgrey
 [Silver1]: https://img.shields.io/badge/-Silver1-lightgrey
 <!-- tier 리스트 E -->
+# [우리의 문제집](https://www.acmicpc.net/group/workbook/14949)
 
 # [Notice]
  1. 문제풀이는 **월, 수, 금** 총 3회 진행한다.
