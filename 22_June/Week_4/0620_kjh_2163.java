@@ -13,9 +13,9 @@ class Main {
         final int M = Integer.parseInt(st.nextToken());
 
         int cutIntoNPieces = N - 1;
-        int cutMPiecesForEachPiece = (M - 1) * N;
+        int cutIntoMPiecesForEachPiece = (M - 1) * N;
 
-        System.out.print(cutIntoNPieces + cutMPiecesForEachPiece);
+        System.out.print(cutIntoNPieces + cutIntoMPiecesForEachPiece);
 
         br.close();
     }
