@@ -12,7 +12,10 @@ class Main {
         final int N = Integer.parseInt(st.nextToken());
         final int M = Integer.parseInt(st.nextToken());
 
-        System.out.print(N * M - 1);
+        int cutIntoNPieces = N - 1;
+        int cutMPiecesForEachPiece = (M - 1) * N;
+
+        System.out.print(cutIntoNPieces + cutMPiecesForEachPiece);
 
         br.close();
     }
