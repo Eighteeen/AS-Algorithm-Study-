@@ -11,12 +11,13 @@ import java.util.*;
 class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        //// 조언은 아니고 궁금한건데 final을 쓰면 메모리나 이런게 더 좋은게 있는건가여?
         final String input = br.readLine();
         
         StringTokenizer st = new StringTokenizer(input, " ");
         final int N = Integer.parseInt(st.nextToken());
         final int M = Integer.parseInt(st.nextToken());
-
+        //// N * M 해서 -1해주는 게 더 간단하지 않나요?? 
         int cutIntoNPieces = N - 1;
         int cutIntoMPiecesForEachPiece = (M - 1) * N;
 
