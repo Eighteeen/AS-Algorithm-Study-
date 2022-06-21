@@ -7,3 +7,4 @@ n,m = input().split(" ")
 print(int(n) * int(m) -1)
 
 ## 👍
+## 깔끔해요 굿굿
