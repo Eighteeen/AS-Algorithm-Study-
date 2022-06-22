@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
 
 class Main {
     public static void main(String[] args) throws IOException {
@@ -15,7 +14,6 @@ class Main {
 
     public static String sortDigitsByDesc(String digits) {
         int[] digitCount = new int[10];
-
         for (int i = 0; i < digits.length(); i++) {
             int digit = Character.getNumericValue(digits.charAt(i));
             digitCount[digit]++;
@@ -29,9 +27,5 @@ class Main {
         }
 
         return sb.toString();
-    }
-
-    public static int toInt(char ch) {
-        return ch - '0';
     }
 }
