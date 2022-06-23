@@ -11,7 +11,7 @@ class Main {
 
         br.close();
     }
-
+    //// 정렬 직접 구현한거 구웃
     public static String sortDigitsByDesc(String digits) {
         ////10을 MAX_DIGIT이런식으로 따로 선언해주는거도 좋았을거 같아요!
         int[] digitCount = new int[10];
