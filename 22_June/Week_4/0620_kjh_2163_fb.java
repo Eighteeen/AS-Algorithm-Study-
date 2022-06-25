@@ -25,6 +25,7 @@ class Main {
         //// => 혹시 N*M-1 공식이 바로 나오는 풀이방법이 있나요?
         int cutIntoNPieces = N - 1;
         int cutIntoMPiecesForEachPiece = (M - 1) * N;
+        // 풀이과정을 나타내주니까 어떤 작업을 하고있는지 알기 편리한거 같아여:)
 
         System.out.print(cutIntoNPieces + cutIntoMPiecesForEachPiece);
 
