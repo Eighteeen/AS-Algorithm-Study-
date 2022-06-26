@@ -15,6 +15,7 @@ class Main {
 
         sortByPlantOrder(growDays);
         
+        //// 자라는 일 수 다 구한 다음에 max값 구하는 것도 좋은 거 같아요!
         int theDayAllGrown = 0;
         for (int i = 0; i < TREES; i++) {
             int today = i + 2;
