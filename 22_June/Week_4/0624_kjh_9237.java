@@ -15,7 +15,7 @@ class Main {
 
         sortByPlantOrder(growDays);
         
-        //// 자라는 일 수 다 구한 다음에 max값 구하는 것도 좋은 거 같아요!
+        //// 자라는 일 수 다 구한 다음에 max값 구하는 것도 좋은 거 같아요! => max값 구하는데 O(N)의 시간이 추가로 소요되어서 자라는 일 수 구하면서 max값 같이 구하는게 효율적입니다!
         int theDayAllGrown = 0;
         for (int i = 0; i < TREES; i++) {
             int today = i + 2;
