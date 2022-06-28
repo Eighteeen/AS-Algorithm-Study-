@@ -12,3 +12,4 @@ for i in range(0, testCnt):
 	minNum = (a if a<b else b)
 	print(int(a * b / get_GCD(minNum, a+b-minNum)))
 	
+## 👍
