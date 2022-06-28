@@ -29,3 +29,4 @@ class Main {
         return getGCD(b, a % b);
     }
 }
+////굳굳
