@@ -12,3 +12,4 @@ for i in range(n):
     g = gcd(a,b)
     print(int(g*(a/g)*(b/g)))
 
+## 깔꼼하네여!!!
