@@ -19,7 +19,7 @@ class Main {
         System.out.print(result);
         br.close();
     }
-
+    //// 이렇게 함수 분리해두니까 훨씬 직관적이네여 굿굿
     public static int getLCM(int a, int b) {
         return a * b / getGCD(a, b);
     }
