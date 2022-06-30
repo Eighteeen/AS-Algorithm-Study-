@@ -41,7 +41,7 @@ class Main {
                     heights.remove(i);
                     heights.remove(j - 1);
                     return;
-                }
+                } ////굳굳
             }
         }
     }
