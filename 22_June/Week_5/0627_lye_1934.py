@@ -13,3 +13,4 @@ for i in range(0, testCnt):
 	print(int(a * b / get_GCD(minNum, a+b-minNum)))
 	
 ## 👍
+## 굳굳
