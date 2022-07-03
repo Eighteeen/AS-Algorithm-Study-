@@ -10,3 +10,4 @@ while fruit_altitudes and fruit_altitudes[0] <= snake_length:
 print(snake_length)
 
 ## Welcome to python world😊
+## 홍태식이 돌아왔구나~!!
