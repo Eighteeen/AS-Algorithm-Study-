@@ -13,3 +13,5 @@ while True:
 		print(nowNum)
 		break
 	i += 1
+
+## 효율적으로 풀려하신 노력이 보이는군요
