@@ -10,3 +10,6 @@ self_num = sorted(natural_num - generated_num)
 
 for i in self_num:
     print(i)
+
+## 👍
+## 와우 천잰데?
