@@ -18,3 +18,5 @@ for i in range(1, 10001):
 for i in range(0, 10000):
 	if isSelfNum[i] == False:
 		print(i+1)
+
+## 로나코로 힘들텐데 굳이네여~~
