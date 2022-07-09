@@ -14,3 +14,5 @@ for _ in range(cnt_ring):
             break
 
 print(find_ring)
+
+## 부분문자열 in 문자열로 할 수 있슴다
