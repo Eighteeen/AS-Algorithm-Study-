@@ -10,4 +10,3 @@ for i in itertools.combinations(dwarf, 7):
         for j in sorted(i):
             print(j)
         break
-## 오와 이런기능이 있었어?
