@@ -15,7 +15,6 @@ class Main {
         for (int i = 0; i < DWARFS; i++) {
             int height = Integer.parseInt(br.readLine());
             heights.add(height);
-            //// 나 왜 이생각 못했찌
             sumOfHeights += height;
         }
 
@@ -30,7 +29,7 @@ class Main {
 
         br.close();
     }
-    ////작명 킹이시네여 ㅎㅎ 생신 축하드립니다 ^____^
+
     public static void exceptFakeDwarfHeights(List<Integer> heights) {
         for (int i = 0; i < DWARFS - 1; i++) {
             for (int j = i + 1; j < DWARFS; j++) {
