@@ -11,6 +11,3 @@ while e != target_e or s != target_s or m != target_m:
     year += 1
 
 print(year)
-
-## 쏘심플스마트....
-
