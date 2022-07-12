@@ -9,3 +9,5 @@ for _ in range(T):
         for j in range(1,n):
             k_zero[j] += k_zero[j-1]
     print(k_zero[-1])
+
+## 훨씬 효율적인 것 같네요 굿
