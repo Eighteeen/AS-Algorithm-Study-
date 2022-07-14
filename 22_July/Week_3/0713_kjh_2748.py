@@ -3,6 +3,7 @@ fibo = {
     1: 1
 }
 ## 한 수 배우고싶은 재귀실력입니다ㅎ
+# 느낀점: 자료구조 공부를 열심히 하자...
 def get_nth_fibo(n):
     if n in fibo:
         return fibo[n]
