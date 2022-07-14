@@ -2,7 +2,7 @@ fibo = {
     0: 0,
     1: 1
 }
-
+## 한 수 배우고싶은 재귀실력입니다ㅎ
 def get_nth_fibo(n):
     if n in fibo:
         return fibo[n]
