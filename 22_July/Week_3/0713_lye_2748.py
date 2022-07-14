@@ -10,3 +10,4 @@ for i in range(1, target):
 print(num2)
 
 ## 크 깔끔
+## 쏘씸플 이즈 베스트
