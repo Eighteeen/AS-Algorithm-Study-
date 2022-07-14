@@ -8,3 +8,5 @@ for i in range(0, testCnt):
 		for k in range(0, n-1):
 			numArr[k+1] = numArr[k]+ numArr[k+1]
 	print(numArr[len(numArr)-1])
+
+# 굳굳
