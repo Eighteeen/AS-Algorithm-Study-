@@ -8,3 +8,5 @@ for i in range(1, target):
 	num2 = nextNum
 
 print(num2)
+
+## 크 깔끔
