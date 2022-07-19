@@ -12,3 +12,4 @@ while 1:
     new = new_num
     
 print(cycle)
+##긋긋이에여
