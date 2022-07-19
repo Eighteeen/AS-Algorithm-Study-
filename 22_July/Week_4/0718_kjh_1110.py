@@ -11,3 +11,5 @@ while True:
 		break;
  
 print(count)
+
+##이렇게 깔끔하게 할수도 있구나,,,,
