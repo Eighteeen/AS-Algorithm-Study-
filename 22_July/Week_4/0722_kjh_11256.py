@@ -12,6 +12,7 @@ for i in range(T):
   box_sizes.sort(reverse=True)
 
   boxed_candies = 0
+## for문 돌리면 used_boxes변수 없어도 기능해요!
   used_boxes = 0
   for box_size in box_sizes:
     boxed_candies += box_size
