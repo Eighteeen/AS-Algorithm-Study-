@@ -7,3 +7,4 @@ def reverseNum(num):
 num1, num2 = input().split(' ')
 res = reverseNum(num1) + reverseNum(num2)
 print(reverseNum(str(res)))
+## 🫡
