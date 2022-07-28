@@ -15,4 +15,4 @@ for num in numStr:
 total += int(nowTxt)	
 originTotal = int(numCnt * (numCnt - 1) / 2)
 
-print(total - originTotal)
+print(total - originTotal) ## 올 origin 작명도 괜찮네요
