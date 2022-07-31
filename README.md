@@ -35,5 +35,5 @@
 
 순서대로 진행하면 좋음. 문제 선정에 참고할것 !
 #
-### 현재 난이도 : <sub>![Bronze1]</sub> , <sub>![Silver5]</sub>
+### 현재 난이도 : <sub>![Silver5]</sub>, <sub>![Silver4]</sub>
 #
