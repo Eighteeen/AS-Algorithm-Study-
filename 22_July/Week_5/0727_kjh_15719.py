@@ -13,3 +13,4 @@ for _ in range(N):
 
 correct_sequence_sum = (N - 1) * N // 2
 print(sequence_sum - correct_sequence_sum)
+## 깔꼼합니다 ㅎ
