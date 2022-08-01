@@ -10,3 +10,5 @@ for i in range(caseCnt):
  for j in range(1, m+1):
   res = int(res / j)
  print(res)
+
+## 뭔가 독자적인 방법으로 푼 것 같네
