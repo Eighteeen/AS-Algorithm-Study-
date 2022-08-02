@@ -12,3 +12,4 @@ for i in range(caseCnt):
  print(res)
 
 ## 뭔가 독자적인 방법으로 푼 것 같네
+## 굳굳~
