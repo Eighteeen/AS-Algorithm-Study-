@@ -17,3 +17,5 @@ for _ in range(N):
 student_list.sort(key = lambda s: (-s.korean, s.english, -s.math, s.name))
 for student in student_list:
   print(student.name)
+
+  ## 굳굳
