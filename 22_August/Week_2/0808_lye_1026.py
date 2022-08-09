@@ -10,3 +10,5 @@ for i in range(N):
 	res += A[i] * B[i]
 
 print(res)
+
+### 쏘씸플이즈 베스트
