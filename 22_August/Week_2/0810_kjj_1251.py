@@ -6,3 +6,4 @@ for i in range(1,len(voca)-1 ):
         result.append(voca[:i][::-1] + voca[i:j][::-1] + voca[j:][::-1])
 
 print(sorted(result)[0])
+## 깔끔하네요
