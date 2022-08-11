@@ -12,3 +12,4 @@ for i in range(1, len(word) - 1):
       best_combined = combined
 
 print(best_combined)
+## 굳굳 
